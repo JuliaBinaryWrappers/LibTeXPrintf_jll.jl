@@ -1,143 +1,143 @@
 [[LibTeXPrintf]]
 arch = "aarch64"
-git-tree-sha1 = "88c68497e7da10d27c4437ed7e3d82123dcf7aaa"
+git-tree-sha1 = "7897ea9653f15607d56c9d09bd200f633e5646c7"
 os = "macos"
 
     [[LibTeXPrintf.download]]
-    sha256 = "1e7b2a1962bfb0d5685ac80aa977019f9f9af4ea81bfb7386b667db1e1ce4a5a"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "a96d130754f6d1a30423fa3c842d2d5ca57cdda65131a00da9eee492da31f48e"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.aarch64-apple-darwin.tar.gz"
 [[LibTeXPrintf]]
 arch = "aarch64"
-git-tree-sha1 = "95822484ec881fe876ba262f27e01801f191dd37"
+git-tree-sha1 = "9580a551704e5b6c50610f34766b2464efdbab20"
 libc = "glibc"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "a6214bcfe0ede7967d9d3e4b87818d8f3fed52d713ce677cad1f3cf3e3b6c241"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "3ee2242df82f4e25eb6a3c0299dfb9918c1ea29e4afb6caa45ecdc0e5e921e55"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.aarch64-linux-gnu.tar.gz"
 [[LibTeXPrintf]]
 arch = "aarch64"
-git-tree-sha1 = "bc00f570ac6187b6685d6b7f466c687e75940253"
+git-tree-sha1 = "db33e6bb33ffe238c500892e8a958be751638ed0"
 libc = "musl"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "defb808b8edaf29fbae66e008fcfb6ecdaa7f2fbeaec89e636eb4dc0b47476a3"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.aarch64-linux-musl.tar.gz"
+    sha256 = "490ffa209aa7f2e54b1a3a1694c34a8ad5f98cba3694046cf2424bd55a48eef5"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.aarch64-linux-musl.tar.gz"
 [[LibTeXPrintf]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "eddebb037897ccb6825dd6138632e6b8fec9432b"
+git-tree-sha1 = "af2c9c707479bcbf72041f751e58212fe38af646"
 libc = "glibc"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "bd0792a978627726d387adda21156dc08a9fc722d1d84c24fd0bd58b4fa11aa0"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "c0dd2a2d7b0ee5122bc2c1cebd7374dcdf71ff352cfeca3d721ac635eb6e4125"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.armv6l-linux-gnueabihf.tar.gz"
 [[LibTeXPrintf]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3dea925e10b6a7f7221caf9ff71ec3147b93dbb0"
+git-tree-sha1 = "52d02431176d9584fe7210a906445a88a3b82e43"
 libc = "musl"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "e83245d431cb907a0a9052f2f94d61f281160ac7b3a7c601ebe4b26e794f7cb3"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "cee9dff9e8ccc4ddc207660671905e8c69d00077ddb07d492bf9eb9e64a00fbc"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.armv6l-linux-musleabihf.tar.gz"
 [[LibTeXPrintf]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "28a776a34b4b8b634c4d03c267af8b43f3b50c25"
+git-tree-sha1 = "c465c3e29fca25faa6b505f004e1ff08fffabb03"
 libc = "glibc"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "b873c7fa4d92f70765cd1bd8e07f327d42c1f57ae9744a61ed788aa89631ebe8"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "f85a530444d75616468227afdaa3e25a5418b4b6e4143466414369c9f825f8f7"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.armv7l-linux-gnueabihf.tar.gz"
 [[LibTeXPrintf]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3e138825c71da40d271aa7332b81773452b350ea"
+git-tree-sha1 = "b6db3a89dd3b94ec8b49ab6b53330c66aa9bab99"
 libc = "musl"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "772a456e3a0afd9468995a8cde9705bf101a669f2316b0d8928baf4ffd829638"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3ae804f7936eaa17f80656a7c1ab258a7ca37b3be3250c18b4a04c94a397cf88"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.armv7l-linux-musleabihf.tar.gz"
 [[LibTeXPrintf]]
 arch = "i686"
-git-tree-sha1 = "29ba172bc48951feed0ea58378a3c2dc57b0cb79"
+git-tree-sha1 = "1681f5070cc923c38381d5909ce01f7adb93fd4d"
 libc = "glibc"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "3f4f234ee441e56450057b7a3e8a65726a438f2ba34bb1ef2a0abea868c38684"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.i686-linux-gnu.tar.gz"
+    sha256 = "705c2050bd5738dc21addf0c5229084e6ede841e31001a90675d7d040acb1a11"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.i686-linux-gnu.tar.gz"
 [[LibTeXPrintf]]
 arch = "i686"
-git-tree-sha1 = "c1dcd08407d965a002e0e0c621e0014a748a0876"
+git-tree-sha1 = "a0c9f12dcf4191ced708870ea0615d4d864e4561"
 libc = "musl"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "5b5cbce0f3cd24c57e9944c1bc72e15edaeebed7800f750aa59be609c0b35437"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.i686-linux-musl.tar.gz"
+    sha256 = "1a87126279524df70f7fe5968d29e1e27eca05727913a3fbe3a1d339fa1ad5d4"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.i686-linux-musl.tar.gz"
 [[LibTeXPrintf]]
 arch = "i686"
-git-tree-sha1 = "592190789a33b1ec3066b71d68e802bd5137a18f"
+git-tree-sha1 = "20b911b10881238be4bba905b3f41a757a0df8d6"
 os = "windows"
 
     [[LibTeXPrintf.download]]
-    sha256 = "7a28b9095b5001d2d7e5098ec98413861354f91f02246119fe19e084c317b12e"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.i686-w64-mingw32.tar.gz"
+    sha256 = "9eba68133833be44ca87349c1aba692c28d7162b9a062fb7034479b0f4f17658"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.i686-w64-mingw32.tar.gz"
 [[LibTeXPrintf]]
 arch = "powerpc64le"
-git-tree-sha1 = "9cf6cdefa64778fffabd5fff0674b270cb290fa9"
+git-tree-sha1 = "cb93ec0e572eb18b35da13a16d5e14430ffb25ef"
 libc = "glibc"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "68f39dc210e0ceced0db130aa930657c66ab382df3301078c36befd60b6946bb"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "867304dfb78ca3223f8116247e330127f22c3b2e2409222522986601d2f40d68"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.powerpc64le-linux-gnu.tar.gz"
 [[LibTeXPrintf]]
 arch = "x86_64"
-git-tree-sha1 = "c8837195362ac2b001a3a3116539dfb7becfc769"
+git-tree-sha1 = "911a70e9ce1c82403c572f25fa6777b5531f1432"
 os = "macos"
 
     [[LibTeXPrintf.download]]
-    sha256 = "9aa52afe162c0765d2f8cbb734d18244c73d491c0a615e4d53ab931dfa3493d3"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "f5cb5719c038697e29bcce2358cce954474e2f8bf4ecf2673f1e5ff92fa5ca88"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.x86_64-apple-darwin.tar.gz"
 [[LibTeXPrintf]]
 arch = "x86_64"
-git-tree-sha1 = "934057307e60f87fec723c5fac90de6ab6146aa3"
+git-tree-sha1 = "bc3a451cc02d020172a912d41a10c50261e2898f"
 libc = "glibc"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "0c737449865bf174e8410e975b58744b736c7c96a5ce1e7b760664e63a8fb22c"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "a6957bdcd72a0c6089b718fc10e17a4055a8809ece655265b729ec3433fd9b29"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.x86_64-linux-gnu.tar.gz"
 [[LibTeXPrintf]]
 arch = "x86_64"
-git-tree-sha1 = "723d94a27bf08adfc95c65924053ed6c83937b25"
+git-tree-sha1 = "1a1689fe8cbd18c7e282e211f5ccf3af9dd94b2b"
 libc = "musl"
 os = "linux"
 
     [[LibTeXPrintf.download]]
-    sha256 = "09f1ecc6c31d349fdbcc8b00ff2e74cc5c83c5235b9ca76ea49a92a75cd8e550"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.x86_64-linux-musl.tar.gz"
+    sha256 = "859b0bd58cd3435939009d8ffd11a47654dc71b831059900af6410ac19c6099d"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.x86_64-linux-musl.tar.gz"
 [[LibTeXPrintf]]
 arch = "x86_64"
-git-tree-sha1 = "463841d28645b8063e76d9a6ce03d0463649855b"
+git-tree-sha1 = "c334a6c111f3b290e0084e1b5746cc1a0069d247"
 os = "freebsd"
 
     [[LibTeXPrintf.download]]
-    sha256 = "458e58bb3b7a97fe62a895dcb412844e940c197ee76de30cb0fb010ef3820d2d"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cee3c04cea31a6cb79c2b201f49c9188fd887280cfd50285fb88280f1d8d3282"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.x86_64-unknown-freebsd.tar.gz"
 [[LibTeXPrintf]]
 arch = "x86_64"
-git-tree-sha1 = "c5068e28ac7b65f3b77fa7fad1e622665bf6cbd5"
+git-tree-sha1 = "9ed3834909c1b4ac7de7f652826da4a62cd5a454"
 os = "windows"
 
     [[LibTeXPrintf.download]]
-    sha256 = "aaf25fbfc1460041a8d6b2f54ae6e50edabe59da0caeb3f1efbe6b6f545010b4"
-    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.11.0+0/LibTeXPrintf.v1.11.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "55bdd48111c3c744e505b431dd6b0c434d2aa2b90e779edf8ffc2be034694b9b"
+    url = "https://github.com/JuliaBinaryWrappers/LibTeXPrintf_jll.jl/releases/download/LibTeXPrintf-v1.14.0+0/LibTeXPrintf.v1.14.0.x86_64-w64-mingw32.tar.gz"
